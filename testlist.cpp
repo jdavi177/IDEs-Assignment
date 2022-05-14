@@ -24,7 +24,7 @@ void testList (int numberOfItems)
       L.addToFront (names[i]);
     }
   L.print(cout);
-  coutt << endl;
+  cout << endl;
   cout << "**end of test " << numberOfItems << ", part 1 ***" << endl;
 
 
